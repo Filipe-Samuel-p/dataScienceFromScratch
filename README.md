@@ -17,6 +17,7 @@ Para usar bem o repositório, siga as ordens abaixo. Ao invés de mexer com uma 
 
 ## about kaggle 
 
+
 De onde virão os desafios??? 
 virão do kaggle, que é uma platorma muito utilizadas por cientistas de dados e entusiastas. A plataforma te disponibiliza vários dados do mundo real de forma gratuita, podendo assim ter competições, cursos e principalmente um bloco gigantesco de dados que poderão ser usados para praticar data science.
 
